@@ -1,0 +1,303 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: url(https://cutewallpaper.org/21/anime-pool-background/Pin-by-Sword-art-online-on-free-Anime-scenery-Free-anime-.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    background-color:#29b8e5;
+}
+
+.btn{
+    display: flex;
+    align-content: center;
+}
+
+.welcome{
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    min-width: 50vw;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-title{
+    color:rgb(205, 232, 255);
+    text-decoration-color: black;
+    text-decoration: solid;
+}
+.card{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    border-color: #29b8e5;
+    background: url(https://pa1.aminoapps.com/6698/0e626426065db18903a3b5f7205d3a6053bd85d0_hq.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+    height: 40vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.signUpContainer{
+    margin: none;
+    padding: none;
+    width: 98vw;
+    height: 100vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signUpCard{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    border-color: #29b8e5;
+    background: url(https://pa1.aminoapps.com/6698/0e626426065db18903a3b5f7205d3a6053bd85d0_hq.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 50vw;
+    height: 75vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.usernameContainer{
+    width: 100vw;
+    height: 100vh;
+    min-width: 50vw;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.usernameCard{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    border-color: #29b8e5;
+    background: url(https://pa1.aminoapps.com/6698/0e626426065db18903a3b5f7205d3a6053bd85d0_hq.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+    height: 40vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.competitionCard{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    border-color: #29b8e5;
+    background: url(https://pa1.aminoapps.com/6698/0e626426065db18903a3b5f7205d3a6053bd85d0_hq.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+    height: 50vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.scheduleCard{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    border-color: #29b8e5;
+    background: url(https://pa1.aminoapps.com/6698/0e626426065db18903a3b5f7205d3a6053bd85d0_hq.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+    height: 50vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.practiceLocationsCard{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    border-color: #29b8e5;
+    background: url(https://pa1.aminoapps.com/6698/0e626426065db18903a3b5f7205d3a6053bd85d0_hq.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+    height: 50vh;
+    min-width: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pastMemoriesContainer{
+    width: 98vw;
+    height: 100vh;
+    min-width: 50vw;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.pastMemories1{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    width: 30vw;
+    height: 110vh;
+    min-width: 30%;
+    min-height: 30%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pastMemories{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    width: 30vw;
+    height: 50vh;
+    min-width: 30%;
+    min-height: 30%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-img-top{
+    border-radius: 70px 70px 0px 0px;
+}
+
+input{
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 5px 7px 0px 0px rgba(0,0,0,0.75);
+    margin: 5px;
+    padding: 5px;
+    min-width: 50%
+}
+
+button{
+    text-align: center;
+    border: solid;
+    border-color: rgb(21, 149, 181);
+    display: block;
+    margin: 5px;
+    margin-bottom: 15 px;
+    padding: 5px;
+    min-width: 20%;
+    display: flex;
+    flex-direction: column;
+    border-width: 4px;
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.75);
+    background-color: rgb(71, 210, 234);
+    color: blue;
+}
+
+button:hover{
+    color: rgb(71, 210, 234);
+    background-color: blue;
+}
+
+/*text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 75px 75px 75px 75px;
+    box-shadow: 10px 15px 51px 10px rgba(0,0,0,0.75);
+    padding: 10px;
+    width: 100px;
+    margin: 20%;
+    margin-top: 15%;
+    max-width: 60%;
+    min-width: 60%;
+    display: flex;
+    overflow-wrap: normal;
+    flex-direction: column;
+#username{
+    display: flex;
+    justify-content: center;
+    overflow-wrap: normal;
+    margin-left: 40%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#password{
+    display: flex;
+    justify-content: center;
+    overflow-wrap: normal;
+    margin-left: 40%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+container background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+
+*/
